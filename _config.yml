@@ -1,7 +1,7 @@
 name: sopitz
 favicon: null
-layout_spectrum: 0.12495002546347678
-typography_spectrum: 0.06503214524127543
+layout_spectrum: 0.95332
+typography_spectrum: 0.75752
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.10328478692099452
-  lightness: 0.09797588433139026
-  saturation: 0.07793689891695976
-  rhythmicContrast: 0.9807305647991598
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
