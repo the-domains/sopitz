@@ -1,11 +1,14 @@
 ---
-datePublished: '2016-08-03T15:15:57.943Z'
+datePublished: '2016-08-03T15:17:06.550Z'
+sourcePath: _posts/2016-08-03-how-do-we-use-docker-review-pt-5.md
 hasPage: true
 author: []
-via: {}
-dateModified: '2016-08-03T15:15:48.822Z'
+via:
+  url: 'https://simonopitz.me'
+dateModified: '2016-08-03T15:17:05.592Z'
 title: How do we use Docker? (Review Pt. 5)
-publisher: {}
+publisher:
+  name: Simon Opitz
 description: >-
   We at [eForce21](http://www.eforce21.com) use Docker in various customer
   projects as well as for our own infrastructure. I want to give you some real
@@ -16,12 +19,11 @@ description: >-
   comment or a tweet at [@_sopitz](https://twitter.com/_sopitz). I'm happy to
   help.
 starred: false
-sourcePath: _posts/2016-08-03-how-do-we-use-docker-review-pt-5.md
 url: how-do-we-use-docker-review-pt-5/index.html
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a24c345-a51e-4cd8-b985-11f31d1b2e3c.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0507d28f674bb3adc540eedb888c0cb8/croprotate.png?cropheight=621&cropwidth=1400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2a24c345-a51e-4cd8-b985-11f31d1b2e3c.png&x=0&y=40)
 
 ## How do we use Docker? (Review Pt. 5)
 
@@ -67,7 +69,6 @@ shift $((OPTIND-1))
 \# ask for setting input if not started with -d  
 if \[ "$default" != "true" \]; then  
 lines=$(cat settings/volumes.rc)  
-  
 for line in $lines  
 do  
 value=${line\#\*=}  
@@ -146,7 +147,7 @@ That's what you need to do to get a Gitlab running with OAuth from Google.
 \* generate login data  
 \* configure Google-API
 
-I guess you want to secure the traffic to your Gitlab via SSL. 
+I guess you want to secure the traffic to your Gitlab via SSL.
 
 <pre\>  
 mkdir -p /etc/nginx/ssl  
