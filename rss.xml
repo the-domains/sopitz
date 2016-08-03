@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[sopitz]]></title>
-        <description><![CDATA[sopitz]]></description>
+        <title><![CDATA[Shining a light in IT]]></title>
+        <description><![CDATA[Shining a light in IT]]></description>
         <link>https://thegrid.ai/sopitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 09:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:54:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sopitz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to use Docker? (Review Pt. 2)]]></title>
+            <description><![CDATA[<article><h1>How to use Docker? (Review Pt. 2)</h1><p>I explained the docker fundamentals in Explaining Docker (Review Pt. 1). To find and develop strategies of how to use docker it is vital to have a solid understanding of the docker components. Now that we try and navigate through the different ideas of what docker could be used for I want to make sure that the concepts behind docker a clear.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09cdaab864c62a9d423a56b02d931eab/noop.jpg?input=https%3A%2F%2Fsimonopitz.me%2Fcontent%2Fimages%2F2015%2F12%2Fdocker-wallpaper-grey.jpg"></article>]]></description>
+            <link>https://simonopitz.me/2015/12/10/how-to-use-docker-review-pt-2/</link>
+            <guid isPermaLink="false">4465fa2f-6e48-40c2-8b49-9d62c9565b91</guid>
+            <pubDate>Wed, 03 Aug 2016 14:53:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[docker]]></title>
-            <description><![CDATA[<h1>docker</h1>]]></description>
+            <description><![CDATA[<p>I've been busy writing a couple of blog posts about docker. Y'all have a look here: https://simonopitz.me</p>]]></description>
             <link>https://thegrid.ai/sopitz/docker/index.html</link>
             <guid isPermaLink="false">c8eea765-ba00-4690-82ea-fb637ccd8ef9</guid>
             <pubDate>Mon, 14 Dec 2015 09:58:55 GMT</pubDate>
