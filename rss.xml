@@ -14,8 +14,15 @@
             <pubDate>Wed, 03 Aug 2016 14:53:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How do we use Docker? (Review Pt. 5)]]></title>
+            <description><![CDATA[<article><h1>How do we use Docker? (Review Pt. 5)</h1><p>We at eForce21 use Docker in various customer projects as well as for our own infrastructure. I want to give you some real life Dockerfiles and docker-compose.ymls that give you an idea of what you can do with docker.</p><img src="http://simonopitz.me/content/images/2015/12/docker-how-we-use-it.png"></article>]]></description>
+            <link>https://simonopitz.me/2015/12/16/how-do-we-use-docker-review-pt-5/</link>
+            <guid isPermaLink="false">7456ccef-682a-4169-bd78-ca65ef0a96b6</guid>
+            <pubDate>Wed, 03 Aug 2016 14:53:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Explaining Security (Review Pt. 4)]]></title>
-            <description><![CDATA[<article><h1>Explaining Security (Review Pt. 4)</h1><p>Decisions for or against technologies in a corporate environment are usually based on two major factors: available know-how & security. And to me that makes perfect sense. Who would want to make themselves more vulnerable than they already are? Right... nobody would want to do that.</p><img src="http://simonopitz.me/content/images/2015/12/Does-Docker-Content-Trust-move-the-needle-on-container-security.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Explaining Security (Review Pt. 4)</h1><p>Decisions for or against technologies in a corporate environment are usually based on two major factors: available know-how & security. And to me that makes perfect sense. Who would want to make themselves more vulnerable than they already are? Right... nobody would want to do that.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bef90a7b6791d91884760e46fa4c2d20/noop.jpg?input=https%3A%2F%2Fsimonopitz.me%2Fcontent%2Fimages%2F2015%2F12%2FDoes-Docker-Content-Trust-move-the-needle-on-container-security.jpg"></article>]]></description>
             <link>https://simonopitz.me/2015/12/16/explaining-docker-securtiy/</link>
             <guid isPermaLink="false">1fe0530d-5323-4860-8b43-babf15cfac1a</guid>
             <pubDate>Wed, 03 Aug 2016 14:53:52 GMT</pubDate>
