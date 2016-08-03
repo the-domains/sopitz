@@ -14,6 +14,13 @@
             <pubDate>Wed, 03 Aug 2016 14:53:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Explaining Security (Review Pt. 4)]]></title>
+            <description><![CDATA[<article><h1>Explaining Security (Review Pt. 4)</h1><p>Decisions for or against technologies in a corporate environment are usually based on two major factors: available know-how & security. And to me that makes perfect sense. Who would want to make themselves more vulnerable than they already are? Right... nobody would want to do that.</p><img src="http://simonopitz.me/content/images/2015/12/Does-Docker-Content-Trust-move-the-needle-on-container-security.jpg"></article>]]></description>
+            <link>https://simonopitz.me/2015/12/16/explaining-docker-securtiy/</link>
+            <guid isPermaLink="false">1fe0530d-5323-4860-8b43-babf15cfac1a</guid>
+            <pubDate>Wed, 03 Aug 2016 14:53:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[docker]]></title>
             <description><![CDATA[<p>I've been busy writing a couple of blog posts about docker. Y'all have a look here: https://simonopitz.me</p>]]></description>
             <link>https://thegrid.ai/sopitz/docker/index.html</link>
