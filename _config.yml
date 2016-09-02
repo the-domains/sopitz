@@ -20,17 +20,18 @@ analytics:
   google: null
   facebook: null
 author:
-  name: Simon OPitz
+  name: Simon Oitzpw
   email: simon.opitz@luminoso-consulting.de
   url: luminoso-consulting.de
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff4a1f7-0bca-4acf-90aa-c24a124e27f5.jpg
-name: Luminoso Consulting
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d10021f9-652c-4314-954b-0d6c5db83590.png
+name: uminoso Consultingl
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d74ad9-19be-46ed-b7cb-955fdcb544c3.png
 collections:
   - index:
       path: /
